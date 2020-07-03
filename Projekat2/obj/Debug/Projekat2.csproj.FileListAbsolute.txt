@@ -1,0 +1,28 @@
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.exe.config
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.exe
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.pdb
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form1.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.csproj.GenerateResource.Cache
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.exe
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.pdb
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.SatTest.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Test.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form2.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form3.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form4.resources
+C:\Users\Ivan\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.IKSOKS.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.exe.config
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.exe
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\bin\Debug\Projekat2.pdb
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.csprojAssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form1.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form3.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form4.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Properties.Resources.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.exe
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.pdb
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form5.resources
+C:\Users\WINDOWS 10\Desktop\FAKS\TVP\Projekat2\Projekat2\obj\Debug\Projekat2.Form6.resources
